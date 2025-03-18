@@ -1,7 +1,7 @@
 import * as React from 'react';
 import axios from 'axios';
 
-/* THIS IS MAIN BRANCH*/
+/* THIS IS STYLED-COMPONENTS BRANCH*/
 
 const storiesReducer = (state, action) => {
   switch (action.type) {
