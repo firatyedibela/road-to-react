@@ -1,7 +1,7 @@
 import * as React from 'react';
 import axios from 'axios';
 
-/* THIS IS CSS-IN-REACT */
+/* THIS IS CSS-IN-REACT BRANCH */
 
 const storiesReducer = (state, action) => {
   switch (action.type) {
