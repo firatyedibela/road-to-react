@@ -1,7 +1,7 @@
 import * as React from 'react';
 import axios from 'axios';
 
-/* THIS IS FUNDAMENTALS BRANCH*/
+/* THIS IS CSS-MODULES BRANCH*/
 
 const storiesReducer = (state, action) => {
   switch (action.type) {
